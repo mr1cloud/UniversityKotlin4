@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "userId": 1,
+        "title": "Красивый закат сегодня",
+        "body": "Смотрите, какой цвет неба...",
+        "avatarUrl": "https://i.pravatar.cc/150?img=1"
+    },
+    {
+        "id": 2,
+        "userId": 2,
+        "title": "Новый кофе-мастер-класс",
+        "body": "Приходите все!",
+        "avatarUrl": "https://i.pravatar.cc/150?img=2"
+    }
+]
