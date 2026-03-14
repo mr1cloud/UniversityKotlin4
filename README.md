@@ -30,3 +30,9 @@
 
 ## Task 12
 [link](https://github.com/mr1cloud/UniversityKotlin4/tree/task12)
+
+## Task 13
+[link](https://github.com/mr1cloud/UniversityKotlin4/tree/task13)
+
+## Task 14
+[link](https://github.com/mr1cloud/UniversityKotlin4/tree/task14)
