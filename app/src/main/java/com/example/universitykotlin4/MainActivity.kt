@@ -59,8 +59,6 @@ fun PhotoProcessingScreen() {
     val context = LocalContext.current
     val workManager = remember { WorkManager.getInstance(context) }
 
-    workManager.cancelUniqueWork("photo_processing")
-
     val uploadInfo by workManager
         .getWorkInfosByTagLiveData("upload_tag").observeAsState()
     val compressInfo by workManager
